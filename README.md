@@ -14,9 +14,13 @@
 - Framer Motion
 - [Spotify API](https://developer.spotify.com/documentation/web-api/).
 
-## Live Demo Link
+## Live Link
 
 Check out the live demo [here](https://my-spotify-sid.netlify.app/).
+
+## Presentation Demo
+
+[Here](https://www.loom.com/share/108c6d56b23a45f6a6d7ad4599a5f531) is a short demo, previewing the app.
 
 ## Getting Started
 
