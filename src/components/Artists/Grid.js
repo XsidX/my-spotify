@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Grid = ({ children }) => (
-  <div className="grid grid-cols-2 md:grid-cols-4">{children}</div>
+  <div className="grid grid-cols-2 md:grid-cols-4 bg-black">{children}</div>
 );
 
 Grid.propTypes = {

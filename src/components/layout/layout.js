@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Nav from '../Nav';
 
 const Layout = ({ children }) => (
-  <div className="min-h-screen">
+  <div className="min-h-screen bg-black">
     <Nav />
     {children}
   </div>
