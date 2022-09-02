@@ -11,7 +11,13 @@ module.exports = {
       roboto: ['Roboto', 'sans-serif'],
     },
     extend: {
+      fontSize: {
+        tiny: '4px',
+      },
+
       height: {
+        screen30: '30vh',
+        screen40: '40vh',
         screen50: '50vh',
       },
       gap: {
@@ -33,6 +39,9 @@ module.exports = {
         'span-10': 'span 10 / span 10',
         'span-11': 'span 11 / span 11',
         'span-12': 'span 12 / span 12',
+      },
+      blur: {
+        'spotify-blur': '120px',
       },
     },
     plugins: [],
