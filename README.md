@@ -80,8 +80,12 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- Original [design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>) idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance.
+- The spotify app design 🎉
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
--The spotify app design guided some parts of this design  🎉
 
 ## 📝 License
 
