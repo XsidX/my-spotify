@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArtistSearched renders correctly 1`] = `
+<a
+  className="flex items-center gap-3"
+  href="/artist/id"
+  onClick={[Function]}
+>
+  <div
+    className="h-14 w-14 rounded-full overflow-hidden"
+  >
+    <img
+      alt="artist name"
+      className="object-contain"
+      src="url"
+    />
+  </div>
+  <div
+    className="flex flex-col justify-center"
+  >
+    <h3
+      className="text-white text-sm"
+    >
+      artist name
+    </h3>
+    <p
+      className="text-gray-300 capitalize text-xs"
+    />
+  </div>
+</a>
+`;

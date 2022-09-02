@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Artists renders correctly 1`] = `
+<div
+  className="grid grid-cols-2 md:grid-cols-4 bg-black"
+/>
+`;
