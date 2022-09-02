@@ -5,7 +5,6 @@ const uiSlice = createSlice({
   name: 'ui',
   initialState: {
     toolBarIsIntersecting: false,
-    currentRoute: '/',
   },
   reducers: {
     toolBarIsIntersecting(state, action) {
