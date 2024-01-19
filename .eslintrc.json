@@ -20,7 +20,8 @@
     "import/no-unresolved": "off",
     "no-shadow": "off",
     "operator-linebreak": "off",
-    "object-curly-newline": "off"
+    "object-curly-newline": "off",
+    "jsx-a11y/control-has-associated-label": "off"
   },
   "ignorePatterns": ["dist/", "build/"]
 }
