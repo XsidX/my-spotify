@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Album renders correctly 1`] = `
+<div
+  className="text-white flex items-center gap-3 drop-shadow-md relative z-30"
+>
+  <div
+    className="h-24 w-20"
+  >
+    <img
+      alt="album name"
+      src="url"
+    />
+  </div>
+  <div
+    className="text-sm"
+  >
+    <p
+      className=""
+    >
+      album name
+    </p>
+    <div
+      className="text-gray-300 text-xs flex items-center gap-1"
+    >
+      <p>
+        2021
+      </p>
+      <svg
+        aria-hidden="true"
+        className="svg-inline--fa fa-circle text-tiny"
+        data-icon="circle"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        style={Object {}}
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"
+          fill="currentColor"
+          style={Object {}}
+        />
+      </svg>
+      <p
+        className="capitalize"
+      >
+        album
+      </p>
+    </div>
+  </div>
+</div>
+`;
